@@ -1,1 +1,1 @@
-# photoGrid
+Responsive photogrid
